@@ -1,0 +1,41 @@
+.container {
+    width: 100%;
+    margin : auto ,auto ;
+    padding: auto , auto ;
+    text-align: center;
+    align-items: center;
+}
+.content {
+    width: 100%;
+    margin: 0 , auto;
+    float: left;
+}
+.box {
+    width: 100%;
+    height: 300px;
+    padding: auto auto;
+    margin: auto auto;
+    text-align: center;
+    align-items: center;
+}
+.box-in {
+
+    width: 13%;
+    height: 30%;
+    float: left;
+    margin-right: 10px;
+    margin-left: 7px;
+
+}
+.bc-gre {
+    background-color: rgb(168, 97, 170);
+}
+.bc-red {
+    background-color: red;
+}
+.bc-yellow {
+    background-color: yellow;
+}
+.y-ortala {
+    text-align: center;
+}
