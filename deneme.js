@@ -19,4 +19,5 @@ seçenekler
 ***${lastname.toLowerCase()+firstname.toLowerCase()+"@"+DOMAIN2}
 ****${firstname[0].toLowerCase()+lastname.toLowerCase()+"@"+DOMAIN2}
 *****${firstname.toLowerCase()+lastname[0].toLowerCase()+"@"+DOMAIN2}
+****
 `)
